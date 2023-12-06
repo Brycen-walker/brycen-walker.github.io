@@ -47,3 +47,18 @@ Another important concept in cyberpatriot is baselining. Baselining is the idea 
 For example, if I compare a secure implementation of the ssh configuration file to the one on my home machine that I left vulnerable, I will notice that they differ in key areas. Then I can change the insecure setting. 
 <br>
 In a competition where so many things are insecure or vulonerable, the skill and ability to baseline becomes invaluable. 
+
+
+## Closing Remarks and Overview
+
+I do not wish to overhwhelm you with information so I want to end it short. 
+<br>
+The main takeaway from this should be, take time and ensure security. 
+<br>
+Ensure security through secure configurations, retracing your steps, taking your time, baselining, and learning secure defaults before competition. 
+<br>
+Overall, don't stress and make sure to have fun.
+<br>
+<br>
+
+### GOOD LUCK!
