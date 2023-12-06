@@ -15,7 +15,7 @@ In cyberpatriot terms, adapting is actively researching and learning during the 
 Overall, focus on secure imlementations of configuration files, both in preparation and during competition. 
 <br>
 
-### Dealing with harder vulnerabilties
+### Dealing with Harder Vulnerabilties
 
 It is natural to get to a point where all the easy stuff is gone and you're stuck. My tip with dealing with harder vulnerabilities is to.... NOT DO THEM!
 <br>
@@ -30,3 +30,20 @@ Now the real tips for dealing with harder vulnerabilties is to just take your ti
 <br>
 Also don't worry about perfection, take your time and you will succeed.
 <br>
+
+### Future-Proofing Your Competition Strategy
+
+This guides purpose is to teach you how to fish, not give you fish, so I want to leave out as many specific examples as possible. 
+<br>
+<br>
+In this portion, I want to focus on things you can do to better yourself in the competition, both for state and semis as well as your future years competing. 
+<br>
+A set of important documents that set out secure settings for many operating systems are the CIS Benchmarks. You can find a CIS Benchmark that pertains to your OS of choice and read through it. They cover secure options for important settings on that OS. This includes password policy, bootloader configurations, and much more. 
+<br>
+Read through and practice implementing these security settings on a fresh VM for invaluable practice. 
+<br>
+<br>
+Another important concept in cyberpatriot is baselining. Baselining is the idea of comparing clean or secured configurations and environments to the ones in the challenge image.<br>
+For example, if I compare a secure implementation of the ssh configuration file to the one on my home machine that I left vulnerable, I will notice that they differ in key areas. Then I can change the insecure setting. 
+<br>
+In a competition where so many things are insecure or vulonerable, the skill and ability to baseline becomes invaluable. 
