@@ -1,15 +1,15 @@
 # State Round Tips, Tricks, and Strategies
-With the upcoming threat of state round, many cyberpatriot competitors may feel overwhelmed or stumped on what they should do. In this quick guide, I will discuss some tips you can implement with no practice as well as others you may implement for future rounds that take some preparation.
+Facing the challenge of the upcoming state round can be daunting for many CyberPatriot competitors. In this brief guide, I'll share some readily applicable tips and others that require a bit of preparation for future rounds.
 <br>
 <br>
 
 ## What to expect
-State Round comes with a large jump in difficulty compared to Round 2 and Round 1 in all aspects. While I can't tell you exactly what to expect due to Cyberpatriot's strict rules, I can give you some strategies you can try and implement yourself. 
+State Round comes with a large jump in difficulty compared to Round 2 and Round 1 in all aspects. While I can't tell you exactly what to expect due to CyberPatriot's strict rules, I can give you some strategies you can try and implement yourself. 
 
 ### Critical Services
 In terms of critical services, you will want to come prepared with premade configuration files. You may not be able to expect what these critical services will be but you can still try and mess around with common critical services in real world infrastructure like web servers and FTP servers. An important aspect of learning and competing is adapting.
 <br>
-In cyberpatriot terms, adapting is actively researching and learning during the competition. Look up the settings in critical service configuration files and implement secure settings. 
+In CyberPatriot terms, adapting is actively researching and learning during the competition. Look up the settings in critical service configuration files and implement secure settings. 
 <br>
 <br>
 Overall, focus on secure implementations of configuration files, both in preparation and during competition. 
@@ -43,7 +43,7 @@ A set of important documents that set out secure settings for many operating sys
 Read through and practice implementing these security settings on a fresh VM for invaluable practice. 
 <br>
 <br>
-Another important concept in cyberpatriot is baselining. Baselining is the idea of comparing clean or secured configurations and environments to the ones in the challenge image.<br>
+Another important concept in CyberPatriot is baselining. Baselining is the idea of comparing clean or secured configurations and environments to the ones in the challenge image.<br>
 For example, if I compare a secure implementation of the ssh configuration file to the one on my home machine that I left vulnerable, I will notice that they differ in key areas. Then I can change the insecure setting. 
 <br>
 In a competition where so many things are insecure or vulnerable, the skill and ability to baseline becomes invaluable. 
