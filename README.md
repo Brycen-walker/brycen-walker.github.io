@@ -21,7 +21,7 @@ It is natural to get to a point where all the easy stuff is gone and you're stuc
 <br>
 Now I dont mean that you should stop competing and go eat some pizza when you're stuck. Definitely not.
 <br>
-My point is, even though you "finished" the easy stuff, you did not finish the easy stuff. There is always stuff you missing or security contorls you put in place wrong.
+My point is, even though you "finished" the easy stuff, you did not finish the easy stuff. There is always stuff you are missing or security contorls you put in place wrong.
 <br>
 Always go make and ENSURE you did everything PERFECTLY. 
 <br>
