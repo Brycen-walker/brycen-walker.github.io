@@ -23,7 +23,7 @@ Now I don't mean that you should stop competing and go eat some pizza when you'r
 <br>
 My point is, even though you "finished" the easy stuff, you did not finish the easy stuff. There is always stuff you are missing or security controls you put in place wrong.
 <br>
-Always go make and ENSURE you did everything PERFECTLY. 
+Always ensure you did everything perfectly. 
 <br>
 <br>
 Now the real tips for dealing with harder vulnerabilities is to just take your time. Try and find some clues that lead to the fact that something is vulnerable. Once you follow the trail, execute and eliminate the vulnerability. 
